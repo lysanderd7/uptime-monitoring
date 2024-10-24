@@ -1,22 +1,22 @@
 [
   {
     "name": "creolytix",
-    "url": "https://app.creolytix.io/login?go=/",
-    "icon": "https://icons.duckduckgo.com/ip3/app.creolytix.io.ico",
+    "url": "https://google.de",
+    "icon": "https://icons.duckduckgo.com/ip3/google.de.ico",
     "slug": "creolytix",
-    "status": "down",
-    "uptime": "6.45%",
-    "uptimeDay": "6.45%",
-    "uptimeWeek": "6.45%",
-    "uptimeMonth": "6.45%",
-    "uptimeYear": "6.45%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-10-24": 0
+      "2024-10-24": 39
     }
   }
 ]
