@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.creolytix.io.ico",
     "slug": "creolytix",
     "status": "down",
-    "uptime": "79.87%",
-    "uptimeDay": "79.87%",
-    "uptimeWeek": "79.87%",
-    "uptimeMonth": "79.87%",
-    "uptimeYear": "79.87%",
+    "uptime": "74.58%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "74.58%",
+    "uptimeMonth": "74.58%",
+    "uptimeYear": "74.58%",
     "time": 401,
     "timeDay": 401,
     "timeWeek": 401,
     "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-10-24": 44
+      "2024-10-24": 60
     }
   }
 ]
